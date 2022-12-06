@@ -2,8 +2,11 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "convert-array-to-csv": "^2.0.0",
+    "mysql": "^2.18.1",
+    "nosql": "^6.1.0",
     "puppeteer": "^19.3.0",
     "request": "^2.88.2",
-    "request-promise": "^4.2.6"
+    "request-promise": "^4.2.6",
+    "sqlite3": "^5.1.2"
   }
 }
