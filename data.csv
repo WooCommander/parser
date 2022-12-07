@@ -1,25 +1,25 @@
 id;name;price
-Т-000081477;kompyuternaya-tehnika;Bluetooth наушники Samsung Galaxy Buds 2 Pro White (SM-R510);3999
-Т-000081483;kompyuternaya-tehnika;SSD M.2 Kingston 1TB NVMe NV2 (SNV2S/1000G);1949
-Т-000081492;kompyuternaya-tehnika;Видеокарта Gigabyte RTX 3070Ti 8GB GDDR6 (GV-N307TGAMING OC-8GD);16799
-Т-000081491;kompyuternaya-tehnika;Видеокарта MSI RTX 3050 8GB GDDR6 VENTUS 2X OC LHR (RTX3050_VENTUS_2X_8G_OC);8699
-Т-000081417;kompyuternaya-tehnika;Клавиатура Sven KB-C7500EL USB black;329
-Т-000081416;kompyuternaya-tehnika;Клавиатура Sven KB-G9300 USB;599
-Т-000081414;kompyuternaya-tehnika;Коврик Sven MP-01 Black;39
-Т-000081529;kompyuternaya-tehnika;Материнская плата Gigabyte A520M S2H;1999
-Т-000081489;kompyuternaya-tehnika;DRAM Kingston DDR4 16GB 3200MHz (KF432C16BWA/16);1729
-Т-000081497;kompyuternaya-tehnika;Монитор Samsung C32G55TQW (LC32G55TQWRXEN);7699
-Т-000081479;kompyuternaya-tehnika;Монитор Samsung F27T450FQ (LF27T450FQRXEN);4399
-Т-000081496;kompyuternaya-tehnika;Ноутбук HP 15-dw3033dx Silver (405F6UA);9199
-T-000000008;kompyuternaya-tehnika;Apple Watch Series 8 GPS, 45mm Midnight (MNP13);10399
-Т-000081476;kompyuternaya-tehnika;Apple AirPods PRO, White (MLWK3);4299
-Т-000081412;kompyuternaya-tehnika;Акустика Sven 180 Black;149
-Т-000081415;kompyuternaya-tehnika;Акустика Sven PS-800 Black;2999
-Т-000081490;kompyuternaya-tehnika;МФУ струйный Canon Pixma TS3350 (3771C006);1599
-Т-000081419;kompyuternaya-tehnika;Сетевой фильтр Sven Optima 1.8м (6 розет) NEW ;109
-Т-000081418;kompyuternaya-tehnika;Сетевой фильтр Sven Optima 3м (6 розет) NEW;129
-Т-000081413;kompyuternaya-tehnika;Стабилизатор Sven VR-A 1000;599
-Т-000081484;kompyuternaya-tehnika;Планшет Samsung GALAXY TAB S6 Lite P619 4/64GB LTE Grey (SM-P619NZAATPH);7599
-Т-000081485;kompyuternaya-tehnika;Планшет Samsung GALAXY TAB S6 Lite P613 4/64GB WiFi Gray (SM-P613NZAAATO);6299
-Т-000081478;kompyuternaya-tehnika;Материнская плата Gigabyte B550M AORUS ELITE 1.2;2699
-Т-000081407;kompyuternaya-tehnika;Смартфон Apple iPhone 14 Plus 6/128GB BLUE;22999
+Т-000081529;kompyuternaya-tehnika;Материнская плата Gigabyte A520M S2H;1999;Wed Dec 07 2022 15:55:51 GMT+0200 (Восточная Европа, стандартное время)
+Т-000081489;kompyuternaya-tehnika;DRAM Kingston DDR4 16GB 3200MHz (KF432C16BWA/16);1729;Wed Dec 07 2022 15:55:51 GMT+0200 (Восточная Европа, стандартное время)
+Т-000049394;kompyuternaya-tehnika;ИБП EnerGenie 1200VA (EG-UPS-033);1217;Wed Dec 07 2022 15:55:51 GMT+0200 (Восточная Европа, стандартное время)
+Т-000049395;kompyuternaya-tehnika;ИБП EnerGenie 1500VA (EG-UPS-034);1106;Wed Dec 07 2022 15:55:51 GMT+0200 (Восточная Европа, стандартное время)
+Т-000046515;kompyuternaya-tehnika;ИБП EnerGenie 850VA (EG-UPS-002);533;Wed Dec 07 2022 15:55:51 GMT+0200 (Восточная Европа, стандартное время)
+Т-000049399;kompyuternaya-tehnika;ИБП EnerGenie 850VA (UPS-PC-850AP);511;Wed Dec 07 2022 15:55:51 GMT+0200 (Восточная Европа, стандартное время)
+Т-000081483;kompyuternaya-tehnika;SSD M.2 Kingston 1TB NVMe NV2 (SNV2S/1000G);1949;Wed Dec 07 2022 15:55:51 GMT+0200 (Восточная Европа, стандартное время)
+Т-000081492;kompyuternaya-tehnika;Видеокарта Gigabyte RTX 3070Ti 8GB GDDR6 (GV-N307TGAMING OC-8GD);16799;Wed Dec 07 2022 15:55:51 GMT+0200 (Восточная Европа, стандартное время)
+Т-000081491;kompyuternaya-tehnika;Видеокарта MSI RTX 3050 8GB GDDR6 VENTUS 2X OC LHR (RTX3050_VENTUS_2X_8G_OC);8699;Wed Dec 07 2022 15:55:51 GMT+0200 (Восточная Европа, стандартное время)
+Т-000081417;kompyuternaya-tehnika;Клавиатура Sven KB-C7500EL USB black;329;Wed Dec 07 2022 15:55:51 GMT+0200 (Восточная Европа, стандартное время)
+Т-000081416;kompyuternaya-tehnika; Клавиатура Sven KB-G9300 USB;599;Wed Dec 07 2022 15:55:51 GMT+0200 (Восточная Европа, стандартное время)
+Т-000081414;kompyuternaya-tehnika;Коврик Sven MP-01 Black;39;Wed Dec 07 2022 15:55:51 GMT+0200 (Восточная Европа, стандартное время)
+Т-000081497;kompyuternaya-tehnika;Монитор Samsung C32G55TQW (LC32G55TQWRXEN);7699;Wed Dec 07 2022 15:55:51 GMT+0200 (Восточная Европа, стандартное время)
+Т-000081479;kompyuternaya-tehnika;Монитор Samsung F27T450FQ (LF27T450FQRXEN);4399;Wed Dec 07 2022 15:55:51 GMT+0200 (Восточная Европа, стандартное время)
+Т-000081496;kompyuternaya-tehnika;Ноутбук HP 15-dw3033dx Silver (405F6UA);9199;Wed Dec 07 2022 15:55:51 GMT+0200 (Восточная Европа, стандартное время)
+T-000000008;kompyuternaya-tehnika;Apple Watch Series 8 GPS, 45mm Midnight (MNP13);10399;Wed Dec 07 2022 15:55:51 GMT+0200 (Восточная Европа, стандартное время)
+Т-000081476;kompyuternaya-tehnika;Apple AirPods PRO, White (MLWK3);4299;Wed Dec 07 2022 15:55:51 GMT+0200 (Восточная Европа, стандартное время)
+Т-000081412;kompyuternaya-tehnika;Акустика Sven 180 Black;149;Wed Dec 07 2022 15:55:51 GMT+0200 (Восточная Европа, стандартное время)
+Т-000081415;kompyuternaya-tehnika;Акустика Sven PS-800 Black;2999;Wed Dec 07 2022 15:55:51 GMT+0200 (Восточная Европа, стандартное время)
+Т-000081490;kompyuternaya-tehnika;МФУ струйный Canon Pixma TS3350 (3771C006);1599;Wed Dec 07 2022 15:55:51 GMT+0200 (Восточная Европа, стандартное время)
+Т-000081419;kompyuternaya-tehnika;Сетевой фильтр Sven Optima 1.8м (6 розет) NEW;109;Wed Dec 07 2022 15:55:51 GMT+0200 (Восточная Европа, стандартное время)
+Т-000081418;kompyuternaya-tehnika;Сетевой фильтр Sven Optima 3м (6 розет) NEW;129;Wed Dec 07 2022 15:55:51 GMT+0200 (Восточная Европа, стандартное время)
+Т-000081413;kompyuternaya-tehnika;Стабилизатор Sven VR-A 1000;599;Wed Dec 07 2022 15:55:51 GMT+0200 (Восточная Европа, стандартное время)
+Т-000081484;kompyuternaya-tehnika;Планшет Samsung GALAXY TAB S6 Lite P619 4/64GB LTE Grey (SM-P619NZAATPH);7599;Wed Dec 07 2022 15:55:51 GMT+0200 (Восточная Европа, стандартное время)
