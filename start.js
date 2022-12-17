@@ -85,12 +85,13 @@ function nosqlCreate(dbName="hitek.db") {
     // tableExists(db,dbName);
   });
   // 
+  currentDate = new Date().toLocaleDateString();
   db.serialize(function () {
       
     db.run('CREATE TABLE IF NOT EXISTS tovar (id text, category text, title text, price integer, dt datetime )');
     var stmt = db.prepare('INSERT INTO tovar VALUES (?,?,?,?,?)');
     for (const row of  data) {
-      stmt.run(row.id, row.category, row.title, row.price, Date('now'));
+      stmt.run(row.id, row.category, row.title, row.price, currentDate);
     }
    
   
