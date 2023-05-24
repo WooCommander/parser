@@ -2,12 +2,13 @@ const rp = require('request-promise');
 const { convertArrayToCSV } = require('convert-array-to-csv');
 const cheerio = require('cheerio');
 const url = 'https://hi-tech.md/kompyuternaya-tehnika/page-'; //95
+const  dbName = "hitek2.db";
 data = [];
 async function s() {
 
   l = 1; //95
  
-  dbName = "hitek.db";
+  
   currentDate = new Date();
  
   const x = await start();
@@ -26,7 +27,7 @@ async function s() {
     if (err) console.log(err);
     else console.log("Data saved");
   });
-  nosqlCreate();
+  nosqlCreate(dbName);
 }
 s();
 /**
