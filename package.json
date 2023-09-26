@@ -1,4 +1,8 @@
 {
+  "name": "parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "convert-array-to-csv": "^2.0.0",
@@ -12,26 +16,9 @@
     "request-promise": "^4.2.6",
     "sqlite3": "^5.1.2"
   },
-  "name": "parser",
-  "version": "1.0.0",
-  "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve":"nodemon index.js",
+    "serve": "nodemon index.js",
     "start": "node index.js"
-
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/WooCommander/parser.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/WooCommander/parser/issues"
-  },
-  "homepage": "https://github.com/WooCommander/parser#readme",
-  "description": ""
+  }
 }
