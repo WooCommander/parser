@@ -6,6 +6,7 @@ const router = Router();
 
 router.get("/api/server", getAll);
 router.get("/", (req, res) => {
+  console.log(`req.requestTime`, req.requestTime);
   res.sendFile(path.resolve(__dirname, "static", "index.html"));
 });
 app.use(function (req, res, next) {
