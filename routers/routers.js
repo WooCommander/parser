@@ -8,4 +8,7 @@ router.get("/api/server", getAll);
 router.get("/", (req, res) => {
   res.sendFile(path.resolve(__dirname, "static", "index.html"));
 });
+app.use(function (req, res, next) {
+  res.status(404).send("Sorry cant find that!");
+});
 export default router;
